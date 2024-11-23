@@ -1,0 +1,10 @@
+name: streamlit_basic
+channels:
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - plotly
+  - pip
+  - pip:
+    - streamlit
